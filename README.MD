@@ -45,8 +45,12 @@ running production systems with minimal manual intervention.
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 
 
-
-
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/kishore-devops/
 - 📫 Email: kishore.pkdp@gmail.com
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishorep-08&show_icons=true&theme=dark&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorep-08&layout=compact&theme=dark&hide_title=true)
