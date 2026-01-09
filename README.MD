@@ -48,7 +48,8 @@ and running reliable production systems.
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishorep-08)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kishorep-08)](https://git.io/streak-stats)
+
 ---
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/kishore-devops/
