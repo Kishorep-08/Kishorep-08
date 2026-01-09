@@ -44,7 +44,15 @@ and running reliable production systems.
 ![Grafana](https://img.shields.io/badge/Grafana-326CE5?style=flat&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kishorep-08&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kishorep-08&layout=compact&theme=dark)
+
+---
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/kishore-devops/
 - 📫 Email: kishore.pkdp@gmail.com
