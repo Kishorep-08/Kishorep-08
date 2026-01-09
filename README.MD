@@ -11,13 +11,13 @@
 ---
 
 ## 💡 About Me
-I work extensively with Kubernetes workloads on AWS and manage
-infrastructure using Terraform and Ansible.
+I design, automate, and operate Kubernetes-based platforms on AWS,
+using Infrastructure as Code and CI/CD pipelines.
 
-My day-to-day work involves designing CI/CD pipelines with Jenkins,
-automating deployments, and embedding security scans into build and
-release workflows. I focus on observability, fault tolerance, and
-running production systems with minimal manual intervention.
+My work focuses on Terraform-managed infrastructure, Jenkins pipelines,
+GitOps deployments with ArgoCD, and embedding security checks into the
+delivery workflow. I care deeply about observability, fault tolerance,
+and running reliable production systems.
 
 
 ---
