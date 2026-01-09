@@ -48,7 +48,6 @@ and running reliable production systems.
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kishorep-08)](https://git.io/streak-stats)
 
 ---
 ## 🤝 Connect With Me
